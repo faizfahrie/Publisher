@@ -6,7 +6,7 @@ This is the complete source code for the solution that automatically pulls the l
 
 **This solution is made as a tool for the official [Telegram X source code](https://github.com/TGX-Android/Telegram-X) and is not designed to be used in other projects.**
 
-The latest commit of this repository is used on the server without any modifications. While there's no technical way to provide a way to verify it, you can still use the [source code](/main.js) for research purposes and submit improvements through pull requests (e.g. adding automatic upload to alternative markets).
+The latest commit of this repository is used on the server without any modifications. While there's no technical way to provide a way to verify it, you can still use the [source video de](/main.js) for research purposes and submit improvements through pull requests (e.g. adding automatic upload to alternative markets).
 
 ## License
 
